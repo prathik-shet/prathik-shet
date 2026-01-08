@@ -30,36 +30,4 @@
 
 ---
 
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prathik-shet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prathik-shet&layout=compact&theme=dracula"
-    height="150"
-  />
-</div>
-
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/prathik-k-81a63126a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
-  </a>
-  <a href="mailto:prathikshet20@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prathik-shet.prathik-shet" />
-</div>
+GitHub Stats  <div align="center">   <img src="https://github-readme-stats.vercel.app/api?username=prathik-shet&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathik-shet&layout=compact&theme=dracula&hide_border=false" height="150" /> </div>  ---  ### 📫 Connect with Me  <div align="center">   <a href="https://www.linkedin.com/in/prathik-k-81a63126a/" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />   </a>   <a href="mailto:prathikshet20@gmail.com" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" />   </a> </div>  ---  <div align="center">   <img src="https://visitor-badge.laobi.icu/badge?page_id=prathik-shet.prathik-shet" /> </div> git sstatus is not showing properly in profile
