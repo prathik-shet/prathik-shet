@@ -28,24 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=prathik-shet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathik-shet&layout=compact&theme=dracula"
-    height="150"
-  />
-</div>
-
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
